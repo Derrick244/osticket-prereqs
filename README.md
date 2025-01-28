@@ -31,7 +31,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+[<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>](https://i.imgur.com/l0I9vyX.png)
 </p>
 <p>
 1. Set Up the Virtual Machine (VM)
@@ -41,7 +41,7 @@ Choose the Operating System: Install a compatible Linux OS (e.g., Ubuntu, CentOS
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+[<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>](https://i.imgur.com/fADKxji.png)
 </p>
 <p>
 2. Install LAMP/LEMP Stack (Linux-based) or WAMP Stack (Windows-based)
@@ -53,7 +53,7 @@ Windows (WAMP): For a Windows-based VM, you can use WAMP (Windows, Apache, MySQL
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+[<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>](https://i.imgur.com/mbUc7kq.png)
 </p>
 <p>
 3. Install osTicket and Configure it
