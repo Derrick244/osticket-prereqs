@@ -31,7 +31,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-[<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>](https://i.imgur.com/l0I9vyX.png)
+[<img src="[https://i.imgur.com/DJmEXEB.png](https://imgur.com/a/PsdOn4y)" height="80%" width="80%" alt="Disk Sanitization Steps"/>](https://i.imgur.com/l0I9vyX.png)
 </p>
 <p>
 1. Set Up the Virtual Machine (VM)
